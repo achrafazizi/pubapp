@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "1 yassine tesst1."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "2 yassine test 2."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "3 test 3 yasine tv."
+    }
+
+  ]
+
+}
